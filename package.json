@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-explorers.git"
+    "url": "https://github.com/startcoin-project/bitcore-explorers.git"
   },
   "keywords": [
     "bitcoin",
@@ -22,12 +22,12 @@
   "author": "BitPay",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bitpay/bitcore-explorers/issues"
+    "url": "https://github.com/startcoin-project/bitcore-explorers/issues"
   },
   "browser": {
     "request": "browser-request"
   },
-  "homepage": "https://github.com/bitpay/bitcore-explorers",
+  "homepage": "https://github.com/startcoin-project/bitcore-explorers",
   "devDependencies": {
     "bitcore-build": "git://github.com/bitpay/bitcore-build.git",
     "brfs": "^1.2.0",
@@ -37,7 +37,7 @@
     "sinon": "^1.12.2"
   },
   "dependencies": {
-    "bitcore": "^0.11.4",
+    "bitcore": "git://github.com/startcoin-project/bitcore.git#ca0ed394a20752ee2a3e79c7f68ba41c2f75883f",
     "browser-request": "^0.3.3",
     "request": "^2.51.0"
   }
