@@ -37,7 +37,7 @@
     "sinon": "^1.12.2"
   },
   "dependencies": {
-    "bitcore": "git://github.com/startcoin-project/bitcore.git#ca0ed394a20752ee2a3e79c7f68ba41c2f75883f",
+    "bitcore": "git://github.com/startcoin-project/bitcore.git#d36d6c00d77ef5ac998b6588e1671689b3b8658f",
     "browser-request": "^0.3.3",
     "request": "^2.51.0"
   }
